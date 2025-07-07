@@ -1,1 +1,1 @@
-# nukesim_real
+#  지상 및 저고도 공중 핵폭발 시뮬레이션 구현을 위한 project
